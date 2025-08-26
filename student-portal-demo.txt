@@ -1,0 +1,7 @@
+name=Supriya
+college name=Aditya Degree College for women, Kakinada
+course name=Bsc-cs-2
+suc code=2347390438
+roll no=137
+email=adityakkd@gmail.com
+address=kakinada
